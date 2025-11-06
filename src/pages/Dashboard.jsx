@@ -94,8 +94,7 @@ export default function Dashboard() {
         <header className="mb-4">
           <h1 className="title">Dashboard</h1>
           <p className="subtitle">
-            HabitVault helps you build consistent routines. Track your habits, keep streaks alive,
-            visualize progress, and get motivated daily.
+            Harini babyyy lovee you so much una na romba miss panitan miss you so much never ever wanna leave you
           </p>
         </header>
 
